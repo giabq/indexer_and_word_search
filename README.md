@@ -35,5 +35,5 @@ gcc ep_aed.c -o <saida.exe>
 - Para finalizar o programa
 
 - **IMPORTANTE**: Os limites para a leitura do texto são: Linhas de 1000 palavras com 50 caracteres, número máximo de linhas indeterminado.
-- O programa foi feito para ser executado no Windows, com o Prompt de Comando, e não suporta a busca de palavras com caracteres acentuados.
+- O programa foi feito para ser executado no Windows, com o Prompt de Comando, e não suporta a busca de palavras com caracteres acentuados, sendo recomendável apenas a busca em textos em inglês ou outra linguagem sem acentuação.
 - O arquivo de texto a ser lido tem que estar codificado em UTF-8 para funcionar corretamente.
