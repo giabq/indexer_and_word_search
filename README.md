@@ -12,7 +12,7 @@ cd <filePATH>
 
 2. Compilar o arquivos .c corretamente:
 ```
-gcc ep_aed.c -o <saida.exe> 
+gcc main.c -o <saida.exe> 
 ```
 - Substituindo <saida.exe> por um nome a ser escolhido para a sua conveniência
 
